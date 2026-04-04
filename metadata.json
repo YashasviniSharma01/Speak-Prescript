@@ -1,5 +1,0 @@
-{
-  "name": "Speak Prescript",
-  "description": "A legal-grade medical dictation and prescription generation tool with modern glassmorphism UI.",
-  "requestFramePermissions": ["microphone"]
-}
